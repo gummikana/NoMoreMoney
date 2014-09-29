@@ -27,5 +27,7 @@ Gameplay
 	Starting with the banker players can cash in their Investement cards. If the cash in an investement card, they take the Gold bars from the card and place them in their Gold bar stash. The card is then discarded. This continues around the table until all players have had a change to cash in.
 
 5. Roll for Crashes
-	
+	Take all the 4 dice and roll them. Resolve the investements. If something is a 1 all of the investement cards crash and all the gold on them is lost and all the cards are discarded. Add more Gold according to the investement table. 
+	If nothing crashed this round draw a crash card. Now move the crash track according to the amount of crashes that happened this round.
+	If the crash track reaches 5 or higher (the 5th crash happened) the game is over. The person with most Gold wins. In case of a tie the person with most cash wins.
 
