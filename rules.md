@@ -1,7 +1,7 @@
 No More Money
 =============
 
-(2 - 4 players, 45 mins, 12+)
+(3 - 4 players, 45 mins, 12+)
 
 The year is 1929 and it's been a decade of never ending economic growth. How could this ever end.
 
