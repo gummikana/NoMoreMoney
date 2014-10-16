@@ -21,13 +21,13 @@ Gameplay
 	Everyone either pays a single step of their loans and gives the money to the player they lend the money from. Or they give up the loan and give the security to the player who loaned the money.
 
 3. Auction of Investment Cards
-	The Investment cards are auctioned in a hidden auction. Every player behind their screens takes any amount of money and hides it in their fist. All players take their fists to center of the table and reveal the money at the same time. Everyone loses the money the bid. The player who bid the most goes first and selects one of the Investment cards and puts it in front of them. The second highest goes next and so forth. The player who paid the most doesn't get anything.
+	The Investment cards are auctioned in a hidden auction. Every player behind their screens takes any amount of money and hides it in their fist. All players take their fists to center of the table and reveal the money at the same time. Everyone loses the money they bid. The player who bid the most goes first and selects one of the Investment cards and puts it in front of them. The second highest goes next and so forth. The player who paid the least doesn't get anything.
 
 4. Cash In Investment Cards
-	Starting with the banker players can cash in their Investment cards. If the cash in an investment card, they take the Gold bars from the card and place them in their Gold bar stash. The card is then discarded. This continues around the table until all players have had a change to cash in.
+	Starting with the banker players can cash in their Investment cards. If they cash in an investment card, they take the Gold bars from the card and place them in their Gold bar stash. The Investment card is then discarded. This continues around the table until all players have had a change to cash in.
 
 5. Roll for Crashes
-	Take all the 4 dice and roll them. Resolve the investments. If something is a 1 all of the investment cards crash and all the gold on them is lost and all the cards are discarded. Add more Gold according to the investment table. 
+	Take all the 4 dice and roll them. Resolve the investments add more Gold according to the investment table. If something is a 1 all of the investment cards of that type crash and all the gold on them is lost and all the Investment cards of that type are discarded. 
 	If nothing crashed this round draw a crash card. Now move the crash track according to the amount of crashes that happened this round.
 	If the crash track reaches 5 or higher (the 5th crash happened) the game is over. The person with most Gold wins. In case of a tie the person with most cash wins.
 
