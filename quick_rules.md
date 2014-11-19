@@ -27,9 +27,15 @@ Gameplay
 	Starting with the banker players can cash in their Investment cards. If they cash in an investment card, they take the Gold bars from the card and place them in their Gold bar stash. The Investment card is then discarded. This continues around the table until all players have had a change to cash in.
 
 5. Roll for Crashes
-	Take all the 4 dice and roll them. Resolve the investments add more Gold according to the investment table. If something is a 1 all of the investment cards of that type crash and all the gold on them is lost and all the Investment cards of that type are discarded. 
-	If nothing crashed this round draw a crash card. Now move the crash track according to the amount of crashes that happened this round.
-	If the crash track reaches 5 or higher (the 5th crash happened) the game is over. The person with most Gold wins. In case of a tie the person with most cash wins.
+	Take all the 4 dice and roll them. Resolve the dice, for each die look if it's less or equal to the current Crash Limit that market crashes. If a market doesn't crash, look if it increases in value according the investement table.
+
+	Market crashing: All the Investement cards and all the gold no top of those cards are automatically discarded. Increase the Crash track by 1 for each market that crashed, even if none of the players had any Investement cards of that market.
+
+	Value increase: Add gold onto the all the investement cards of that type that increased in value.
+
+	If nothing crashed this round, increase the Crash Limit by 1.
+
+	If the Crash track reached 5 or higher (the 5th crash happened) the game is over. The person with most Gold wins. In case of a tie the person with most cash wins.
 
 
 Loaning money
