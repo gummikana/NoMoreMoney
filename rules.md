@@ -83,6 +83,8 @@ Everyone either pays a single step of their loans and gives the money to the pla
 
 The Investment cards are auctioned in a hidden auction. Every player behind their screens takes any amount of money and hides it in their fist. All players take their fists to center of the table and reveal the money at the same time. Everyone loses the money they bid. The player who bid the most goes first and selects one of the Investment cards and puts it in front of them. The second highest goes next and so forth. The player who paid the least doesn't get anything.
 
+If a player brings forth an empty hand, they get $5 from the printing press.
+
 4. Cash In Investment Cards
 ---------------------------
 
