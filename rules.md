@@ -1,7 +1,16 @@
 No More Money
 =============
 
-(3 - 4 players, 45 mins, 12+)
+A game by Erik Svedäng & Petri Purho for 3 - 4 players, ages 12 and up.
+
+TODO
+====
+[ ] Figure out capital and non capital names
+[ ] Illustrations
+[ ] Backstory
+
+Introduction
+============
 
 The year is 1929 and it's been a decade of never ending economic growth. How could this ever end.
 
@@ -28,6 +37,15 @@ Components
 * 140 money tokens (...)
 * Rules booklet 
 
+Banker Card
+-----------
+
+This helps you keep track who is the banker.
+
+Loan Cards
+----------
+
+These represent the loan a player owns.
 
 Setup
 =====
@@ -59,7 +77,7 @@ Each round is divided in to 5 steps. Each is explained in detail in the followin
 1. Banker Auction
 2. Loan Payment
 3. Auction of Investment Cards
-4. Cash In Investment Cards
+4. Cash In of Investment Cards
 5. Roll for Crashes
 
 0. Reveal New Investments
@@ -71,7 +89,7 @@ From the Investment deck draw cards one less than the number of players and set 
 1. Banker Auction
 -----------------
 
-Starting with the player who was the banker previously, they announce how much they'd pay to be the banker. The player on the left can either raise the amount or leave from the auction. This is continue around the table until only 1 player remains and they pay that amount of money to the Printing Press and take the Banker card and put it in front of them.
+Starting with the player who was the banker previously, they announce how much they'd pay to be the banker. The player on the left can either raise the amount or leave from the auction. This is continued around the table until only 1 player remains and they pay that amount of money to the Printing Press and take the Banker card and put it in front of them.
 
 2. Loan Payment
 ---------------
@@ -83,10 +101,12 @@ Everyone either pays a single step of their loans and gives the money to the pla
 
 The Investment cards are auctioned in a hidden auction. Every player behind their screens takes any amount of money and hides it in their fist. All players take their fists to center of the table and reveal the money at the same time. Everyone loses the money they bid. The player who bid the most goes first and selects one of the Investment cards and puts it in front of them. The second highest goes next and so forth. The player who paid the least doesn't get anything.
 
-If a player brings forth an empty hand, they get $5 from the printing press.
+If 2 or more players bid the exact same amount, they both empty their hands into the printing press. Then they both go behind their screens and bring forth another fistful of money. In the case of a tie this his is repeated maximum of 3 times. If no one is a clear winner, then neither of the players get any of Investement cards.
 
-4. Cash In Investment Cards
----------------------------
+If a player brings forth an empty hand, they get $5 from the printing press. This can only be done once a round. 
+
+4. Cash In of Investment Cards
+------------------------------
 
 Starting with the banker players can cash in their Investment cards. If they cash in an investment card, they take the Gold bars from the card and place them in their Gold bar stash. The Investment card is then discarded. This continues around the table until all players have had a change to cash in.
 
@@ -110,4 +130,4 @@ Credits
 
 Design: Erik Svedäng & Petri Purho
 Artist: Petri Purho & Anna Zajaczkowski
-Playtesters: Arvi Teikari, Ari Kuokka, Anna Zajaczkowski, Pekka Kujansuu, Otto Hantula
+Playtesters: Arvi Teikari, Ari Kuokka, Anna Zajaczkowski, Pekka Kujansuu, Otto Hantula, Petri Luukkainen
