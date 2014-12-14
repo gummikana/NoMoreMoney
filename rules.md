@@ -15,7 +15,7 @@ Introduction
 The year is 1929 and it's been a decade of boundless economic growth. 
 Trading on the stock market is at an all time high thanks to generous loans from the big banks.
 Choose your investments right to make the biggest profits, but don't cash out too late or you'll be left with nothing but the crumbs of the economy.
-Don't forget, it's every man's right to get rich.
+
 
 Objective
 =========
@@ -62,18 +62,17 @@ Each player gets
 ----------------
 
 * 3 Gold pieces
-* $20 worth of money / coins worth a total of $20
-* 1 Player screen to hide their money
-* 9 Octogons of their color
+* Coins worth a total of $20
+* 1 Player screen to hide coins from other players
+* 9 Octagons of the player's color
 
 General setup
 -------------
 
-* Shuffle all decks. 
-* Place the Crash track somewhere where all players can see it and place the Crash track disc (black disc) on position 0.
+* Shuffle all decks.
+* Place the Crash track where all players can see it. Place the Crash track disc (black disc) on position 0 of Crash track and the Instability disc on position 1 of the Market Instability track.
 * Draw 3 cards from the top of the Loan deck and place them face up. 
 * Take all the rest of the Coins and place them in a pile where all players can access them. This pile is referred to as the Printing Press.
-talk about short/long game
 
 How to play
 ===========
@@ -92,13 +91,12 @@ Each round is divided in to 5 steps. Each is explained in detail in the followin
 0. Reveal New Investments
 -------------------------
 
-From the Investment deck draw cards numbering one less than the number of players and set them face up in the middle of the table. Then from the pile of Gold take the number of Gold pieces indicated on the Investment cards and set them on top of them.
-
+Draw cards from the investment deck and place them face up in the middle of the playing area. The number of cards to be drawn is equal to one less than the number of players in the game. Then place Gold pieces from the Gold pile onto the cards so that the amount of gold on each investment card matches the gold piece icons on the card. Each investment card can have between 0 and 3 pieces of gold.
 
 1. Banker Auction
 -----------------
 
-Starting with the player who was the banker previously, they announce how much they'd pay to be the banker. The player on the left can either raise the amount or leave from the auction. This is continued around the table until only 1 player remains and they pay that amount of money to the Printing Press and take the Banker card and put it in front of them.
+Bidding starts with the player who was the banker in the previous turn. Clockwise around the table, each player states the amount of money they are willing pay to be the banker. The next player can either raise the amount or leave the auction. This continues until one player has won the auction. That player then pays their bid to the Printing Press and takes the Banker card, placing it in front of their screen so it is visible to all players.
 
 2. Loan Payment
 ---------------
@@ -110,7 +108,7 @@ Everyone either pays a single step of their loans and gives the money to the pla
 
 The Investment cards are auctioned in a hidden auction. Every player behind their screens takes any amount of money and hides it in their fist. All players take their fists to center of the table and reveal the money at the same time. Everyone loses the money they bid. The player who bid the most goes first and selects one of the Investment cards and puts it in front of them. The second highest goes next and so forth. The player who paid the least doesn't get anything.
 
-If 2 or more players bid the exact same amount, they both empty their hands into the printing press. Then they both go behind their screens and bring forth another fistful of money. In the case of a tie this his is repeated maximum of 3 times. If no one is a clear winner, then neither of the players get any of Investement cards.
+If 2 or more players bid the exact same amount, they both empty their hands into the printing press. Then they both go behind their screens and bring forth another fistful of money. In the case of a tie this his is repeated maximum of 3 times. If no one is a clear winner, then neither of the players get any of Investment cards.
 
 If a player brings forth an empty hand, they get $5 from the printing press. This can only be done once a round. 
 
