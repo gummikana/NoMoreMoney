@@ -12,13 +12,16 @@ TODO
 Introduction
 ============
 
-The year is 1929 and it's been a decade of never ending economic growth. How could this ever end.
-
+The year is 1929 and it's been a decade of boundless economic growth. 
+Trading on the stock market is at an all time high thanks to generous loans from the big banks.
+Choose your investments right to make the biggest profits, but don't cash out too late or you'll be left with nothing but the crumbs of the economy.
+Don't forget, it's every man's right to get rich.
 
 Objective
 =========
 
 The goal is the get as much Gold as possible. When the economy crashes for the final time, who ever has the most Gold wins the game.
+gold pieces
 
 
 Components
@@ -40,12 +43,17 @@ Components
 Banker Card
 -----------
 
-This helps you keep track who is the banker.
+This helps you keep track of which player is currently the banker.
 
 Loan Cards
 ----------
 
-These represent the loan a player owns.
+These represent the loans a player owes to other players.
+
+Investment Cards
+----------------
+
+
 
 Setup
 =====
@@ -54,7 +62,7 @@ Each player gets
 ----------------
 
 * 3 Gold pieces
-* $20 worth of money
+* $20 worth of money / coins worth a total of $20
 * 1 Player screen to hide their money
 * 9 Octogons of their color
 
@@ -62,14 +70,15 @@ General setup
 -------------
 
 * Shuffle all decks. 
-* Set the Crash track somewhere where everyone can see it and set the Crash track disc (black disc) to 0.
-* Turn over 3 cards from the Loan deck. 
-* Take all the rest of the money and set it somewhere where everyone can access it. This is referred as the Printing Press.
+* Place the Crash track somewhere where all players can see it and place the Crash track disc (black disc) on position 0.
+* Draw 3 cards from the top of the Loan deck and place them face up. 
+* Take all the rest of the Coins and place them in a pile where all players can access them. This pile is referred to as the Printing Press.
+talk about short/long game
 
 How to play
 ===========
 
-No More Money is played in rounds, at the end of each round dice are rolled for crashes. When the 5th crash happens the game ends. The player with most Gold wins the game.
+No More Money usually takes 4 to 9 rounds to play. At the end of each round the dice are rolled and may cause Crashes. When the 5th crash happens the game ends. The player with most Gold pieces wins the game.
 
 Each round is divided in to 5 steps. Each is explained in detail in the following pages.
 
@@ -83,7 +92,7 @@ Each round is divided in to 5 steps. Each is explained in detail in the followin
 0. Reveal New Investments
 -------------------------
 
-From the Investment deck draw cards one less than the number of players and set them face up in the middle of the table. Then from the pile of Gold take the number of Gold pieces indicated on the Investment cards and set them on top of them.
+From the Investment deck draw cards numbering one less than the number of players and set them face up in the middle of the table. Then from the pile of Gold take the number of Gold pieces indicated on the Investment cards and set them on top of them.
 
 
 1. Banker Auction
