@@ -20,8 +20,7 @@ Choose your investments right to make the biggest profits, but don't cash out to
 Objective
 =========
 
-The goal is the get as much Gold as possible. When the economy crashes for the final time, who ever has the most Gold wins the game.
-gold pieces
+The goal is the get as much Gold as possible. When the economy crashes for the final time, who ever has the most Gold pieces in their personal Gold pile wins the game.
 
 
 Components
@@ -43,7 +42,7 @@ Components
 Banker Card
 -----------
 
-This helps you keep track of which player is currently the banker.
+This tracks which player is currently the banker.
 
 Loan Cards
 ----------
@@ -69,7 +68,7 @@ Each player gets
 General setup
 -------------
 
-* Shuffle all decks.
+* Shuffle all the decks.
 * Place the Crash track where all players can see it. Place the Crash track disc (black disc) on position 0 of Crash track and the Instability disc on position 1 of the Market Instability track.
 * Draw 3 cards from the top of the Loan deck and place them face up. 
 * Take all the rest of the Coins and place them in a pile where all players can access them. This pile is referred to as the Printing Press.
@@ -101,35 +100,48 @@ Bidding starts with the player who was the banker in the previous turn. Clockwis
 2. Loan Payment
 ---------------
 
-Everyone either pays a single step of their loans and gives the money to the player they lend the money from. Or they give up the loan and give the security to the player who loaned the money.
+Players pay back each of their Loans to the player they were borrowed from. Loans can be paid back by a single installment, or the entire Loan can be paid back at once. Every time a single installment is paid back, move the counter on the Loan card by one space to keep track of the number of remaining installments to be paid. If a player is unable or unwilling to pay back a loan, they must default on the loan by giving up the security deposit instead.
+
+If a Loan is payed back fully or defaulted then the Loan card is put into the discard pile, the player marker is returned to the player it belongs to, and the Coins indicating the payment amount are returned to the Printing Press.
 
 3. Auction of Investment Cards
 ------------------------------
 
-The Investment cards are auctioned in a hidden auction. Every player behind their screens takes any amount of money and hides it in their fist. All players take their fists to center of the table and reveal the money at the same time. Everyone loses the money they bid. The player who bid the most goes first and selects one of the Investment cards and puts it in front of them. The second highest goes next and so forth. The player who paid the least doesn't get anything.
+The Investment cards are auctioned in a simultaneous hidden bid. Each player takes an amount of money from behind their screen and hides it in their hand, making a fist. All the players hold their fists out to the center of the table and open their hands to reveal the Coins at the same time. Every player loses the money they bid, putting it back to the Printing Press. The player who made the highest bid gets first choice of the Investment cards, selecting one and putting it in front of them. The player with the second highest bid goes next, and so forth. The player with the lowest bid doesn't get an Investment card.
 
-If 2 or more players bid the exact same amount, they both empty their hands into the printing press. Then they both go behind their screens and bring forth another fistful of money. In the case of a tie this his is repeated maximum of 3 times. If no one is a clear winner, then neither of the players get any of Investment cards.
+If 2 or more players bid the exact same amount, they empty the coins in their hands into the Printing Press and bid a second time. In the case of a tie this is repeated a maximum of 3 times. If there is no clear winner, then neither of the players get any of Investment cards.
 
-If a player brings forth an empty hand, they get $5 from the printing press. This can only be done once a round. 
+If a player brings forth an empty hand, they get $5 from the printing press. This can only be done once per round. 
 
 4. Cash In of Investment Cards
 ------------------------------
 
-Starting with the banker players can cash in their Investment cards. If they cash in an investment card, they take the Gold bars from the card and place them in their Gold bar stash. The Investment card is then discarded. This continues around the table until all players have had a change to cash in.
+Starting with the player to the left of the banker and going clockwise around the table, each player gets the option to cash in any number of their Investments. If a player decides to cash in an Investment card, they take the Gold bars from the card and place them in their personal Gold pile. The Investment card is then discarded.
 
-5. Roll for Crashes
+5. Roll and Resolve
 -------------------
 
-Take all the 4 dice and roll them. Resolve the investments add more Gold according to the investment table. If something is a 1 all of the investment cards of that type crash and all the gold on them is lost and all the Investment cards of that type are discarded. 
-If nothing crashed this round draw a crash card. Now move the crash track according to the amount of crashes that happened this round.
-If the crash track reaches 5 or higher (the 5th crash happened) the game is over. The person with most Gold wins. In case of a tie the person with most cash wins.
+Take all four dice and roll them. Resolve the investments according to the investment table. If a stock crashes, all Investment cards of that type crash and all the gold on them is lost. Crashed Investment cards are discarded. A stock crashes if the die for that stock rolls a value equal to or less than the Market Instability value. If nothing crashed this round, increment the Market Instability counter by one. If there were one or more crashes, increment the Crash counter by the amount of crashes that were rolled.
+
+If the Crash track reaches 5 (or 4 in the short game) the game is over. The person with most Gold pieces in their Gold pile wins. In case of a tie the person with most cash wins.
 
 Loaning money
 =============
 
-Only the player who is currently the Banker can loan money to other players. That's the only way to transfer money in the game.
+Only the player who is currently the Banker can lend money to other players. Loans are the only way to transfer money in the game.
 
-The Banker and the loaner negotiate based on the 3 face up Loan cards, how much money the loaner will get, how much they must pay back per turn, which of the 3 Loan lengths do they want and what the security of the loan is. Once they have come to agreement the Banker pays 10% of the money to be loaned to the printing press. The player takes the full amount from the printing press, along with the Loan card. On the loan card is put from the printing press the amount of money that player has to pay each turn (this is done so that no one will forget), a loan marker from the Banker and it's placed in the last loan slot. Also the player places the security (usually Gold bars, but it can also be money) on the Security part of the card. Now the loan has been set up.
+The Banker and the borrower openly negotiate the Loan between them. They must come to an agreement on four things:
+1. Loan Amount: the amount of money the borrower will receive.
+2. Installment Payment: the amount to be paid back to the lender in each installment.
+3. Loan Card: one of 3 available Loan cards specifying the number of installments to pay back the loan.
+4. Security Deposit: the number of Gold pieces the borrower will place as a security deposit on the loan.
+
+Note that the total amount paid back to the lender does not have to be equal to the amount received by the borrower.
+
+Once an agreement is reached, the Banker pays 10% of the money to be loaned from the money behind their screen to the printing press. The borrowing player takes the full amount of the loan from the printing press and gets the Loan card, placing it in front of them. The following pieces are placed on the Loan card:
+1. An amount of money to indicate the installment amount, acting as a reminder, taken from the Printing Press.
+2. A loan marker from the Banker, placed onto the last slot of the Loan counter, indicating the number of turns until the loan is paid back.
+3. The security deposit that the Banker and borrower agreed on, taken from the borrower's personal Gold pile.
 
 
 Credits 
