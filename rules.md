@@ -11,6 +11,7 @@ TODO
 [ ] Crash Track / Market Instability
 [ ] Reference cards
 [ ] Market Gold increasement table and rules
+[ ] There should always be 3 Loan cards visible...
 
 Introduction
 ============
