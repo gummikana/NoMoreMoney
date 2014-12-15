@@ -52,6 +52,7 @@ These represent the loans a player owes to other players.
 Investment Cards
 ----------------
 
+These cards represent the stocks that players own. They may generate more gold or they might crash and lose all of their value. 
 
 
 Setup
