@@ -35,7 +35,7 @@ Components
 * 113 Gold pieces (wooden)
 * 36 Octagons (9 red, 9 purple, 9 blue, 9 green)
 * 1 Black disc (crash tracker)
-* 4 Dice (red D4, purple D6, blue D12, green D20) 
+* 4 Market Dice (red D4, purple D6, blue D12, green D20) 
 * 140 money tokens (...)
 * Rules booklet 
 
@@ -53,6 +53,11 @@ Investment Cards
 ----------------
 
 These cards represent the stocks that players own. They may generate more gold or they might crash and lose all of their value. 
+
+Market Dice
+-----------
+
+These dice are rolled to determine which Ivestments go up and which crash.
 
 
 Setup
