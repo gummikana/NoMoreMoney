@@ -8,6 +8,9 @@ TODO
 [ ] Figure out capital and non capital names
 [ ] Illustrations
 [ ] Backstory
+[ ] Crash Track / Market Instability
+[ ] Reference cards
+[ ] Market Gold increasement table and rules
 
 Introduction
 ============
