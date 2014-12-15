@@ -42,7 +42,7 @@ Components
 Banker Card
 -----------
 
-This tracks which player is currently the banker.
+This tracks which player is currently the banker. The banker has the ability to loan money to other players.
 
 Loan Cards
 ----------
