@@ -29,12 +29,12 @@ Components
 * 1 Beautifully illustrated Banker card
 * ? Loan cards
 * 32 Investment Cards
-* 10 Crash cards
 * 1 Crash track card
 * 4 Player screens
 * 113 Gold pieces (wooden)
 * 36 Octagons (9 red, 9 purple, 9 blue, 9 green)
 * 1 Black disc (crash tracker)
+* 1 Orange dics (Market instability tracker)
 * 4 Market Dice (red D4, purple D6, blue D12, green D20) 
 * 140 money tokens (...)
 * Rules booklet 
