@@ -88,33 +88,33 @@ How to play
 
 No More Money usually takes 4 to 9 rounds to play. At the end of each round the dice are rolled and may cause Crashes. When the 5th crash happens the game ends. The player with most Gold pieces wins the game.
 
-Each round is divided in to 5 steps. Each is explained in detail in the following pages.
+Each round is divided in to 6 steps. Each is explained in detail in the following pages.
 
-0. Reveal New Investments
-1. Banker Auction
-2. Loan Payment
-3. Auction of Investment Cards
-4. Cash In of Investment Cards
-5. Roll for Crashes
+1. Reveal New Investments
+2. Banker Auction
+3. Loan Payment
+4. Auction of Investment Cards
+5. Cash In of Investment Cards
+6. Roll and Resolve
 
-0. Reveal New Investments
+1. Reveal New Investments
 -------------------------
 
 Draw cards from the investment deck and place them face up in the middle of the playing area. The number of cards to be drawn is equal to one less than the number of players in the game. Then place Gold pieces from the Gold pile onto the cards so that the amount of gold on each investment card matches the gold piece icons on the card. Each investment card can have between 0 and 3 pieces of gold.
 
-1. Banker Auction
+2. Banker Auction
 -----------------
 
 Bidding starts with the player who was the banker in the previous turn. Clockwise around the table, each player states the amount of money they are willing pay to be the banker. The next player can either raise the amount or leave the auction. This continues until one player has won the auction. That player then pays their bid to the Printing Press and takes the Banker card, placing it in front of their screen so it is visible to all players.
 
-2. Loan Payment
+3. Loan Payment
 ---------------
 
 Players pay back each of their Loans to the player they were borrowed from. Loans can be paid back by a single installment, or the entire Loan can be paid back at once. Every time a single installment is paid back, move the counter on the Loan card by one space to keep track of the number of remaining installments to be paid. If a player is unable or unwilling to pay back a loan, they must default on the loan by giving up the security deposit instead.
 
 If a Loan is payed back fully or defaulted then the Loan card is put into the discard pile, the player marker is returned to the player it belongs to, and the Coins indicating the payment amount are returned to the Printing Press.
 
-3. Auction of Investment Cards
+4. Auction of Investment Cards
 ------------------------------
 
 The Investment cards are auctioned in a simultaneous hidden bid. Each player takes an amount of money from behind their screen and hides it in their hand, making a fist. All the players hold their fists out to the center of the table and open their hands to reveal the Coins at the same time. Every player loses the money they bid, putting it back to the Printing Press. The player who made the highest bid gets first choice of the Investment cards, selecting one and putting it in front of them. The player with the second highest bid goes next, and so forth. The player with the lowest bid doesn't get an Investment card.
@@ -123,12 +123,12 @@ If 2 or more players bid the exact same amount, they empty the coins in their ha
 
 If a player brings forth an empty hand, they get $5 from the printing press. This can only be done once per round. 
 
-4. Cash In of Investment Cards
+5. Cash In of Investment Cards
 ------------------------------
 
 Starting with the player to the left of the banker and going clockwise around the table, each player gets the option to cash in any number of their Investments. If a player decides to cash in an Investment card, they take the Gold bars from the card and place them in their personal Gold pile. The Investment card is then discarded.
 
-5. Roll and Resolve
+6. Roll and Resolve
 -------------------
 
 Take all four dice and roll them. Resolve the investments according to the investment table. If a stock crashes, all Investment cards of that type crash and all the gold on them is lost. Crashed Investment cards are discarded. A stock crashes if the die for that stock rolls a value equal to or less than the Market Instability value. If nothing crashed this round, increment the Market Instability counter by one. If there were one or more crashes, increment the Crash counter by the amount of crashes that were rolled.
