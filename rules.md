@@ -67,7 +67,7 @@ These cards represent the stocks that players own. They may generate more gold o
 Market Dice
 -----------
 
-These dice are rolled to determine which Ivestments go up and which crash.
+These dice are rolled to determine which Investments go up and which crash.
 
 Crash Track
 -----------
@@ -172,12 +172,12 @@ Only the player who is currently the Banker can lend money to other players. Loa
 The Banker and the borrower openly negotiate the Loan between them. They must come to an agreement on four things:
 1. Loan Amount: the amount of money the borrower will receive.
 2. Installment Payment: the amount to be paid back to the lender in each installment.
-3. Loan Card: one of 3 available Loan cards specifying the number of installments to pay back the loan.
+3. Loan Card: one of 3 face up Loan cards specifying the number of installments to pay back the loan.
 4. Security Deposit: the number of Gold pieces the borrower will place as a security deposit on the loan.
 
 Note that the total amount paid back to the lender does not have to be equal to the amount received by the borrower.
 
-Once an agreement is reached, the Banker pays 10% of the money to be loaned from the money behind their screen to the printing press. The borrowing player takes the full amount of the loan from the printing press and gets the Loan card, placing it in front of them. The following pieces are placed on the Loan card:
+Once an agreement is reached, the Banker pays 10% of the money to be loaned from the money behind their screen to the printing press. Then the borrowing player takes the full amount of the loan from the printing press and gets the Loan card, placing it in front of them. The following pieces are placed on the Loan card:
 1. An amount of money to indicate the installment amount, acting as a reminder, taken from the Printing Press.
 2. A loan marker from the Banker, placed onto the last slot of the Loan counter, indicating the number of turns until the loan is paid back.
 3. The security deposit that the Banker and borrower agreed on, taken from the borrower's personal Gold pile.
