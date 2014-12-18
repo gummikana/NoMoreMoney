@@ -64,6 +64,10 @@ Market Dice
 
 These dice are rolled to determine which Ivestments go up and which crash.
 
+Crash Track
+-----------
+
+This determines when stocks crash and how many crashes has happened.
 
 Setup
 =====
@@ -79,8 +83,8 @@ Each player gets
 General setup
 -------------
 
-* Shuffle all the decks.
-* Place the Crash track where all players can see it. Place the Crash track disc (black disc) on position 0 of Crash track and the Instability disc on position 1 of the Market Instability track.
+* Shuffle both the Loan and Investment decks.
+* Place the Crash track where all players can see it. Place the Crash track disc (black disc) on position 0 of Crash track and the Instability cylinder (red cylinder) on position 1 of the Market Instability track.
 * Draw 3 cards from the top of the Loan deck and place them face up. 
 * Take all the rest of the Coins and place them in a pile where all players can access them. This pile is referred to as the Printing Press.
 
