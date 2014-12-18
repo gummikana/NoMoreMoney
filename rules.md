@@ -30,15 +30,16 @@ The goal is the get as much Gold as possible. When the economy crashes for the f
 Components
 ==========
 
-* 1 Beautifully illustrated Banker card
-* ? Loan cards
-* 32 Investment Cards
-* 1 Crash track card
+* 1 Banker card
+* 34 Loan cards
+* 32 Investment cards
+* 1 Crash Track and Market Instability card
+* 4 Reference cards
 * 4 Player screens
 * 113 Gold pieces (wooden)
-* 36 Octagons (9 red, 9 purple, 9 blue, 9 green)
-* 1 Black disc (crash tracker)
-* 1 Orange dics (Market instability tracker)
+* 32 Cubes to track Loans (8 red, 8 purple, 8 blue, 8 green)
+* 1 Black disc (Crash tracker)
+* 1 Red cylinder (Market instability tracker)
 * 4 Market Dice (red D4, purple D6, blue D12, green D20) 
 * 140 money tokens (...)
 * Rules booklet 
