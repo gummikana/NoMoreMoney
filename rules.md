@@ -151,7 +151,17 @@ Starting with the player to the left of the banker and going clockwise around th
 
 Take all four dice and roll them. Resolve the investments according to the investment table. If a stock crashes, all Investment cards of that type crash and all the gold on them is lost. Crashed Investment cards are discarded. A stock crashes if the die for that stock rolls a value equal to or less than the Market Instability value. If nothing crashed this round, increment the Market Instability counter by one. If there were one or more crashes, increment the Crash counter by the amount of crashes that were rolled.
 
-If the Crash track reaches 5 (or 4 in the short game) the game is over and that means all the Investment cards crashed and all the gold on all the Investment cards is lost. The person with most Gold pieces in their Gold pile wins. In case of a tie the person with most cash wins.
+If the Crash track reaches 5 (or 4 in the short game) the game ends. See the Final Crash.
+
+
+Final Crash
+===========
+
+When the final Crash happens (5th in the long game, 4th in the short game) and the Investment cards crash and all the Gold on the is lost. No one gets to cash in any of them.
+
+If players have Loans and they're able to pay 1 installment of them they can do that and they can move the security from the Loan card into their personal Gold pile. If a player is unable to pay 1 installment of their loan they must give the security to the player who borrowed the money. 
+
+After these have been resolved, they player with most Gold in the personal Gold pile is the winner. In case of a tie, the player with more coins is the winner.
 
 
 Loaning money
