@@ -7,11 +7,16 @@ TODO
 ====
 [ ] Figure out capital and non capital names
 [ ] Illustrations
-[ ] Backstory
-[ ] Crash Track / Market Instability
+[ ] Back story
+[x] Crash Track / Market Instability
+[ ] 3x Gold pieces
 [ ] Reference cards
 [ ] Market Gold increasement table and rules
 [ ] There should always be 3 Loan cards visible...
+[ ] At the end, if you pay one installment...
+[ ] Game over section
+[x] If no one wants to be the banker 
+
 
 Introduction
 ============
@@ -67,7 +72,8 @@ These dice are rolled to determine which Ivestments go up and which crash.
 Crash Track
 -----------
 
-This determines when stocks crash and how many crashes has happened.
+The card is used to keep track of the number of crashes and when the game ends. The card is two sided and one of the sides is for the short game (0 to 4 crashes) and the other side is for the long game (0 to 5 crashes). The card is also used to keep track of the current Market Instability. 
+
 
 Setup
 =====
@@ -83,15 +89,20 @@ Each player gets
 General setup
 -------------
 
-* Shuffle both the Loan and Investment decks.
-* Place the Crash track where all players can see it. Place the Crash track disc (black disc) on position 0 of Crash track and the Instability cylinder (red cylinder) on position 1 of the Market Instability track.
-* Draw 3 cards from the top of the Loan deck and place them face up. 
-* Take all the rest of the Coins and place them in a pile where all players can access them. This pile is referred to as the Printing Press.
+1. The Crash Track
+Choose if you want to play the short (4 crashes) or the long (5 crashes) game and set the card that side upwards on the table. Place the Crash track disc (black disc) on position 0 of the Crash track and the Instability cylinder (red cylinder) on position 1 of the Market Instability track.
+
+2. Shuffle the decks
+Shuffle both the Loan and Investment decks. Draw 3 cards from the top of the Loan deck and place them face up on the table. There should always be 3 Loan cards available, so when one of them gets used draw a new one from the top of the deck. 
+
+3. Coins and golds
+Take all the rest of the Coins and place them in a pile where all players can access them. This pile is referred to as the Printing Press. Take all the gold tokens and place them into a pile next to the Printing Press.
+
 
 How to play
 ===========
 
-No More Money usually takes 4 to 9 rounds to play. At the end of each round the dice are rolled and may cause Crashes. When the 5th crash happens the game ends. The player with most Gold pieces wins the game.
+No More Money usually takes 4 to 9 rounds to play. At the end of each round the dice are rolled and may cause Crashes. When the final crash happens the game ends. In the short game this is the 4th in the long it's the 5th crash. After the final crash, the player with most Gold pieces wins the game.
 
 Each round is divided in to 6 steps. Each is explained in detail in the following pages.
 
@@ -110,7 +121,9 @@ Draw cards from the investment deck and place them face up in the middle of the 
 2. Banker Auction
 -----------------
 
-Bidding starts with the player who was the banker in the previous turn. Clockwise around the table, each player states the amount of money they are willing pay to be the banker. The next player can either raise the amount or leave the auction. This continues until one player has won the auction. That player then pays their bid to the Printing Press and takes the Banker card, placing it in front of their screen so it is visible to all players.
+Bidding starts with the player to the left of the Banker. Clockwise around the table, each player states the amount of money they are willing pay to be the banker. The next player can either raise the amount or leave the auction. This continues until one player has won the auction. That player then pays their bid to the Printing Press and takes the Banker card, placing it in front of their screen so it is visible to all players indicating that they're the banker for this round.
+
+If no player is willing to pay anything to be the Banker, the banker is moved left to the next player and they become the banker for this round.
 
 3. Loan Payment
 ---------------
@@ -126,19 +139,20 @@ The Investment cards are auctioned in a simultaneous hidden bid. Each player tak
 
 If 2 or more players bid the exact same amount, they empty the coins in their hands into the Printing Press and bid a second time. In the case of a tie this is repeated a maximum of 3 times. If there is no clear winner, then neither of the players get any of Investment cards.
 
-If a player brings forth an empty hand, they get $5 from the printing press. This can only be done once per round. 
+If a player brings forth an empty hand, they get $5 from the printing press. This can only be done once per round per player.
 
 5. Cash In of Investment Cards
 ------------------------------
 
-Starting with the player to the left of the banker and going clockwise around the table, each player gets the option to cash in any number of their Investments. If a player decides to cash in an Investment card, they take the Gold bars from the card and place them in their personal Gold pile. The Investment card is then discarded.
+Starting with the player to the left of the banker and going clockwise around the table, each player gets the option to cash in any number of their Investments. If a player decides to cash in an Investment card, they take the Gold bars from the card and place them in their personal Gold pile. The Investment card is then discarded. This is the only way to get Gold bars from the Investment cards to your personal Gold pile. At the end of the game only the Gold bars in your personal Gold pile count towards your final score.
 
 6. Roll and Resolve
 -------------------
 
 Take all four dice and roll them. Resolve the investments according to the investment table. If a stock crashes, all Investment cards of that type crash and all the gold on them is lost. Crashed Investment cards are discarded. A stock crashes if the die for that stock rolls a value equal to or less than the Market Instability value. If nothing crashed this round, increment the Market Instability counter by one. If there were one or more crashes, increment the Crash counter by the amount of crashes that were rolled.
 
-If the Crash track reaches 5 (or 4 in the short game) the game is over. The person with most Gold pieces in their Gold pile wins. In case of a tie the person with most cash wins.
+If the Crash track reaches 5 (or 4 in the short game) the game is over and that means all the Investment cards crashed and all the gold on all the Investment cards is lost. The person with most Gold pieces in their Gold pile wins. In case of a tie the person with most cash wins.
+
 
 Loaning money
 =============
