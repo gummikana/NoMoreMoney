@@ -118,6 +118,8 @@ Each round is divided in to 6 steps. Each is explained in detail in the followin
 
 Draw cards from the investment deck and place them face up in the middle of the playing area. The number of cards to be drawn is equal to one less than the number of players in the game. Then place Gold pieces from the Gold pile onto the cards so that the amount of gold on each investment card matches the gold piece icons on the card. Each investment card can have between 0 and 3 pieces of gold.
 
+Example: In this 3 player game, top 2 cards from the Investement deck are revealed. One of them (National Steel Industries) has one gold, which is placed on top of the card.
+
 2. Banker Auction
 -----------------
 
