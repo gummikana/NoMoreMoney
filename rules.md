@@ -151,10 +151,57 @@ Starting with the player to the left of the banker and going clockwise around th
 6. Roll and Resolve
 -------------------
 
-Take all four dice and roll them. Resolve the investments according to the investment table. If a stock crashes, all Investment cards of that type crash and all the gold on them is lost. Crashed Investment cards are discarded. A stock crashes if the die for that stock rolls a value equal to or less than the current Market Instability value. If nothing crashed this round, increment the Market Instability value by one. If there were one or more crashes, increment the Crash counter by the amount of crashes that were rolled.
+Take all four dice and roll them. Resolve the investments according to the Investment table. An Investment crashes if the die for that Investment rolls a value equal to or less than the current Market Instability value. When an Investment crashes, all Investment cards of that type crash and all the gold on them is lost. Crashed Investment cards are discarded. 
+
+If nothing crashed this round, increment the Market Instability value by one. If there were one or more crashes, increment the Crash counter by the amount of crashes that were rolled.
 
 If the Crash track reaches 5 (or 4 in the short game) the game ends. See the Final Crash.
 
+Resolve Investments
+-------------------
+
+After the dice have been rolled, gold is added according to the Investment table below.
+
+D4 - Generic Motor Vehicle Company
+----------------------------------
+
+If the value from the D4 die is less or equal to the current Market Instability value, all Generic Motor Vehicle Company investments crash.
+
+If the die result is higher than the current Market Instability value, add 2 gold pieces to each D4 investment card.
+
+D6 - Active Radio Company
+-------------------------
+
+If the value from the D6 die is less or equal to the current Market Instability value, all Active Radio Company investments crash.
+
+If the die result is higher than the current Market Instability value, add 1 gold pieces to each D6 investment card.
+
+
+D12 - National Steel Industries
+-------------------------------
+
+If the value from the D12 die is less or equal to the current Market Instability value, all National Steel Industries investments crash.
+
+If the die result is higher than the current Market Instability value and equal to or higher than 4 (but less than 12), add 1 gold pieces to each D12 investment card.
+
+If the die result is 12 add 2 gold pieces to each D12 investment card.
+
+D20 - Government Bonds of Freedom
+---------------------------------
+
+If the value from the D20 die is less or equal to the current Market Instability value, all Government Bonds of Freedoms crash.
+
+If the die result is higher or equal to 8 (but less than 20), add 1 gold pieces to each D20 investment card.
+
+If the die result is 20, double all the gold bars on each D20 investment card.
+
+
+    | +1   | +2  | x2 	
+----------------------
+D4  |      | 1-4 | 
+D6  | 1-6  |     |
+D12 | 4-11 | 12  |
+D20 | 8-19 |     | 20
 
 Final Crash
 ===========
