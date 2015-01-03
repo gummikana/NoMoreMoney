@@ -79,13 +79,16 @@ The card is used to keep track of the number of crashes and when the game ends. 
 Setup
 =====
 
+Each player selects a color based on the Cubes that are available. They keep the Cubes in front of their screen in a pile. This pile is an easy way to see which of the players is which color.
+
+
 Each player gets
 ----------------
 
 * 3 Gold pieces
 * Coins worth a total of $20
 * 1 Player screen to hide coins from other players
-* 9 Octagons of the player's color
+* 8 Cubes of the player's color
 * 1 Reference card
 
 General setup
@@ -135,6 +138,8 @@ If no one is willing to pay anything to be the Banker, the Banker is moved left 
 Players pay back each of their Loans to the player(s) they were borrowed from. Loans can be paid back by a single installment, or the entire Loan can be paid back at once. Every time a single installment is paid back, move the counter on the Loan card by one space to keep track of the number of remaining installments to be paid. If a player is unable or unwilling to pay back a loan, they must default on the loan by giving up the security deposit instead.
 
 If a Loan is payed back fully or defaulted then the Loan card is put into the discard pile, the player marker is returned to the player it belongs to, and the Coins indicating the payment amount are returned to the Printing Press.
+
+Example: In the previous round Ari took a loan of $100 from Otto (5 rounds, $19 each round, with 1 gold security). He pays an installment of it by giving Otto $19 and moving the Cube from 5 to 4 on the Loan card.	 
 
 4. Auction of Investment Cards
 ------------------------------
@@ -234,7 +239,7 @@ Note that the total amount paid back to the lender does not have to be equal to 
 
 Once an agreement is reached, the Banker pays 10% of the money to be loaned from the money behind their screen to the printing press. Then the borrowing player takes the full amount of the loan from the printing press and gets the Loan card, placing it in front of them. The following pieces are placed on the Loan card:
 1. An amount of money to indicate the installment amount, acting as a reminder, taken from the Printing Press. (No one owns these coins, they only act as reminder of how much has to be paid each installment.)
-2. A loan marker from the Banker, placed onto the last slot of the Loan counter, indicating the number of turns until the loan is paid back.
+2. A loan marker (single cube) from the Banker, placed onto the last slot of the Loan counter, indicating the number of turns until the loan is paid back.
 3. The security deposit that the Banker and borrower agreed on, taken from the borrower's personal Gold pile.
 
 
