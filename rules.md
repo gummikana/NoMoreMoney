@@ -15,7 +15,8 @@ TODO
 [ ] There should always be 3 Loan cards visible...
 [ ] At the end, if you pay one installment...
 [ ] Game over section
-[x] If no one wants to be the banker 
+[x] If no one wants to be the Banker 
+[ ] Screens hide the money not the Gold bars
 
 
 Introduction
@@ -52,7 +53,7 @@ Components
 Banker Card
 -----------
 
-This tracks which player is currently the banker. The banker has the ability to loan money to other players.
+This tracks which player is currently the Banker. The Banker has the ability to loan money to other players.
 
 Loan Cards
 ----------
@@ -62,12 +63,12 @@ These represent the loans a player owes to other players.
 Investment Cards
 ----------------
 
-These cards represent the stocks that players own. They may generate more gold or they might crash and lose all of their value. 
+These cards represent the Investments that players own. They may generate more gold or they might crash and lose all of their value. 
 
 Market Dice
 -----------
 
-These dice are rolled to determine which Investments go up and which crash.
+These dice are rolled to determine which of the Investments go up and which crash. These are referred to in the rules as D4 (4 sided die), D6 (6 sided die), D12 (12 sided die) and as D20 (20 sided die).
 
 Crash Track
 -----------
@@ -85,12 +86,13 @@ Each player gets
 * Coins worth a total of $20
 * 1 Player screen to hide coins from other players
 * 9 Octagons of the player's color
+* 1 Reference card
 
 General setup
 -------------
 
 1. The Crash Track
-Choose if you want to play the short (4 crashes) or the long (5 crashes) game and set the card that side upwards on the table. Place the Crash track disc (black disc) on position 0 of the Crash track and the Instability cylinder (red cylinder) on position 1 of the Market Instability track.
+Choose if you want to play the short (4 crashes) or the long (5 crashes) game and set the Crash Track card that side upwards on the table. Place the Crash track disc (black disc) on position 0 of the Crash track and the Instability cylinder (red cylinder) on position 1 of the Market Instability track.
 
 2. Shuffle the decks
 Shuffle both the Loan and Investment decks. Draw 3 cards from the top of the Loan deck and place them face up on the table. There should always be 3 Loan cards available, so when one of them gets used draw a new one from the top of the deck. 
@@ -102,7 +104,7 @@ Take all the rest of the Coins and place them in a pile where all players can ac
 How to play
 ===========
 
-No More Money usually takes 4 to 9 rounds to play. At the end of each round the dice are rolled and may cause Crashes. When the final crash happens the game ends. In the short game this is the 4th in the long it's the 5th crash. After the final crash, the player with most Gold pieces wins the game.
+No More Money usually takes 4 to 9 rounds to play. At the end of each round the dice are rolled and may cause Crashes. When the final crash happens the game ends. In the short game this is the 4th crash and in the long it's the 5th crash. After the final crash, the player with most Gold pieces wins the game.
 
 Each round is divided in to 6 steps. Each is explained in detail in the following pages.
 
@@ -146,12 +148,12 @@ If a player brings forth an empty hand, they get $5 from the printing press. Thi
 5. Cash In of Investment Cards
 ------------------------------
 
-Starting with the player to the left of the banker and going clockwise around the table, each player gets the option to cash in any number of their Investments. If a player decides to cash in an Investment card, they take the Gold bars from the card and place them in their personal Gold pile. The Investment card is then discarded. This is the only way to get Gold bars from the Investment cards to your personal Gold pile. At the end of the game only the Gold bars in your personal Gold pile count towards your final score.
+Starting with the player to the left of the Banker and going clockwise around the table, each player gets the option to cash in any number of their Investments. If a player decides to cash in an Investment card, they take the Gold bars from the card and place them in their personal Gold pile. The Investment card is then discarded. This is the only way to get Gold bars from the Investment cards to your personal Gold pile. At the end of the game only the Gold bars in your personal Gold pile count towards your final score.
 
 6. Roll and Resolve
 -------------------
 
-Take all four dice and roll them. Resolve the investments according to the Investment table. An Investment crashes if the die for that Investment rolls a value equal to or less than the current Market Instability value. When an Investment crashes, all Investment cards of that type crash and all the gold on them is lost. Crashed Investment cards are discarded. 
+Take all four dice and roll them. Resolve the investments according to the Investment table bellow. An Investment crashes if the die for that Investment rolls a value equal to or less than the current Market Instability value. When an Investment crashes, all Investment cards of that type crash and all the gold on them is lost. Crashed Investment cards are discarded. 
 
 If nothing crashed this round, increment the Market Instability value by one. If there were one or more crashes, increment the Crash counter by the amount of crashes that were rolled.
 
@@ -161,6 +163,17 @@ Resolve Investments
 -------------------
 
 After the dice have been rolled, gold is added according to the Investment table below.
+
+Investment Table
+----------------
+
+    | +1   | +2  | x2 	
+----------------------
+D4  |      | 1-4 | 
+D6  | 1-6  |     |
+D12 | 4-11 | 12  |
+D20 | 8-19 |     | 20
+
 
 D4 - Generic Motor Vehicle Company
 ----------------------------------
@@ -196,17 +209,10 @@ If the die result is higher or equal to 8 (but less than 20), add 1 gold pieces 
 If the die result is 20, double all the gold bars on each D20 investment card.
 
 
-    | +1   | +2  | x2 	
-----------------------
-D4  |      | 1-4 | 
-D6  | 1-6  |     |
-D12 | 4-11 | 12  |
-D20 | 8-19 |     | 20
-
 Final Crash
 ===========
 
-When the final Crash happens (5th in the long game, 4th in the short game) and the Investment cards crash and all the Gold on the is lost. No one gets to cash in any of them.
+Final Crash means that everything is lost. When the final Crash happens (5th in the long game, 4th in the short game) all the Investment cards crash and all the Gold on the is lost. No one gets to cash in any of them.
 
 If players have Loans and they're able to pay 1 installment of them they can do that and they can move the security from the Loan card into their personal Gold pile. If a player is unable to pay 1 installment of their loan they must give the security to the player who borrowed the money. 
 
@@ -227,7 +233,7 @@ The Banker and the borrower openly negotiate the Loan between them. They must co
 Note that the total amount paid back to the lender does not have to be equal to the amount received by the borrower.
 
 Once an agreement is reached, the Banker pays 10% of the money to be loaned from the money behind their screen to the printing press. Then the borrowing player takes the full amount of the loan from the printing press and gets the Loan card, placing it in front of them. The following pieces are placed on the Loan card:
-1. An amount of money to indicate the installment amount, acting as a reminder, taken from the Printing Press.
+1. An amount of money to indicate the installment amount, acting as a reminder, taken from the Printing Press. (No one owns these coins, they only act as reminder of how much has to be paid each installment.)
 2. A loan marker from the Banker, placed onto the last slot of the Loan counter, indicating the number of turns until the loan is paid back.
 3. The security deposit that the Banker and borrower agreed on, taken from the borrower's personal Gold pile.
 
