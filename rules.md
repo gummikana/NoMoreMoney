@@ -7,17 +7,18 @@ TODO
 ====
 [ ] Figure out capital and non capital names
 [ ] Illustrations
-[ ] Back story
+[x] Back story
 [x] Crash Track / Market Instability
 [ ] 3x Gold pieces
-[ ] Reference cards
-[ ] Market Gold increasement table and rules
-[ ] There should always be 3 Loan cards visible...
-[ ] At the end, if you pay one installment...
-[ ] Game over section
+[x] Reference cards
+[x] Market Gold increasement table and rules
+[x] There should always be 3 Loan cards visible...
+[x] At the end, if you pay one installment...
+[x] Game over section
 [x] If no one wants to be the Banker 
-[ ] Screens hide the money not the Gold bars
-
+[x] Screens hide the money not the Gold bars
+[ ] When are loans negotiated 
+[ ] Baby loans
 
 Introduction
 ============
@@ -30,7 +31,7 @@ Choose your investments right to make the biggest profits, but don't cash out to
 Objective
 =========
 
-The goal is the get as much Gold as possible. When the economy crashes for the final time, who ever has the most Gold pieces in their personal Gold pile wins the game.
+The goal is the get as much Gold as possible. When the economy crashes for the final time, who ever has the most Gold pieces wins the game.
 
 
 Components
@@ -75,11 +76,16 @@ Crash Track
 
 The card is used to keep track of the number of crashes and when the game ends. The card is two sided and one of the sides is for the short game (0 to 4 crashes) and the other side is for the long game (0 to 5 crashes). The card is also used to keep track of the current Market Instability. 
 
+Screens
+-------
+
+The screens are used to keep each player's personal supply of money tokens out of sight of other players. Only money tokens should be kept hidden behind screens; other components should remain visible to all players.
+
 
 Setup
 =====
 
-Each player selects a color based on the Cubes that are available. They keep the Cubes in front of their screen in a pile. This pile is an easy way to see which of the players is which color.
+Each player chooses a color and takes all the Cubes of that color. Cubes are kept in a pile in front of the player's screen.
 
 
 Each player gets
@@ -95,25 +101,25 @@ General setup
 -------------
 
 1. The Crash Track
-Choose if you want to play the short (4 crashes) or the long (5 crashes) game and set the Crash Track card that side upwards on the table. Place the Crash track disc (black disc) on position 0 of the Crash track and the Instability cylinder (red cylinder) on position 1 of the Market Instability track.
+Decide if you want to play the short game (4 crashes) or the long game (5 crashes) and place the Crash Track card on the table with that side facing up. Place the Crash track disc (black disc) on position 0 of the Crash track and the Instability cylinder (red cylinder) on position 1 of the Market Instability track.
 
 2. Shuffle the decks
 Shuffle both the Loan and Investment decks. Draw 3 cards from the top of the Loan deck and place them face up on the table. There should always be 3 Loan cards available, so when one of them gets used draw a new one from the top of the deck. 
 
 3. Coins and golds
-Take all the rest of the Coins and place them in a pile where all players can access them. This pile is referred to as the Printing Press. Take all the gold tokens and place them into a pile next to the Printing Press.
+Take all the rest of the Coins and place them in a pile where all players can access them. This pile is referred to as the Printing Press. Take all the gold tokens and place them into a pile next to the Printing Press. This is called the Gold Reserve.
 
 
 How to play
 ===========
 
-No More Money usually takes 4 to 9 rounds to play. At the end of each round the dice are rolled and may cause Crashes. When the final crash happens the game ends. In the short game this is the 4th crash and in the long it's the 5th crash. After the final crash, the player with most Gold pieces wins the game.
+No More Money usually takes 4 to 9 rounds to play. At the end of each round the dice are rolled and may cause Crashes. The short game ends after the 4th crash and the long game ends after 5th crash. After the final crash, the player with most Gold pieces wins the game.
 
 Each round is divided in to 6 steps. Each is explained in detail in the following pages.
 
 1. Reveal New Investments
 2. Banker Auction
-3. Loan Payment
+3. Loans
 4. Auction of Investment Cards
 5. Cash In of Investment Cards
 6. Roll and Resolve
@@ -121,25 +127,55 @@ Each round is divided in to 6 steps. Each is explained in detail in the followin
 1. Reveal New Investments
 -------------------------
 
-Draw cards from the investment deck and place them face up in the middle of the playing area. The number of cards to be drawn is equal to one less than the number of players in the game. Then place Gold pieces from the Gold pile onto the cards so that the amount of gold on each investment card matches the gold piece icons on the card. Each investment card can have between 0 and 3 pieces of gold.
+Draw cards from the Investment deck and place them face up in the middle of the playing area. The number of cards to be drawn is equal to one less than the number of players in the game. Then place Gold pieces from the Gold Reserve onto the cards so that the amount of gold on each Investment card matches the gold piece icons on the card. Each Investment card can have between 0 and 3 pieces of gold.
 
-Example: In this 3 player game, top 2 cards from the Investment deck are revealed. One of them (National Steel Industries) has one gold, which is placed on top of the card.
+Example: In a 3 player game, 2 cards are drawn from the Investment deck and placed face up on the table. One of them (National Steel Industries) has one gold icon, so a gold piece is placed on top of the card.
 
 2. Banker Auction
 -----------------
 
-Bidding to be the next Banker starts with the player to the left of the Banker. Clockwise around the table, each player states the amount of money they are willing pay to be the Banker. The next player can either raise the amount or leave the auction. This continues until one player has won the auction. That player then pays their bid to the Printing Press and takes the Banker card, placing it in front of their screen so it is visible to all players indicating that they're the Banker for this round.
+In the first Banker Auction, bidding for the banker card starts with the person who has most recently gone to the bank. In subsequent rounds, bidding starts with the player to the left of the current Banker. 
 
-If no one is willing to pay anything to be the Banker, the Banker is moved left to the next player and they become the Banker for this round.
+Clockwise around the table, each player states the amount of money they are willing pay to be the Banker. The next player can either raise the amount or leave the auction. This continues until one player has won the auction. That player then pays their bid to the Printing Press and takes the Banker card. They place the Banker card in front of their screen so it is visible to all players, indicating that they are the Banker for this round.
 
-3. Loan Payment
----------------
+If no one is willing to pay anything to be the Banker, the Banker card moves clockwise to the next player. That player becomes the new Banker for that round.
 
-Players pay back each of their Loans to the player(s) they were borrowed from. Loans can be paid back by a single installment, or the entire Loan can be paid back at once. Every time a single installment is paid back, move the counter on the Loan card by one space to keep track of the number of remaining installments to be paid. If a player is unable or unwilling to pay back a loan, they must default on the loan by giving up the security deposit instead.
+3. Loans
+---------
 
-If a Loan is payed back fully or defaulted then the Loan card is put into the discard pile, the player marker is returned to the player it belongs to, and the Coins indicating the payment amount are returned to the Printing Press.
+Paying back loans
+-----------------
 
-Example: In the previous round Ari took a loan of $100 from Otto (5 rounds, $19 each round, with 1 gold security). He pays an installment of it by giving Otto $19 and moving the Cube from 5 to 4 on the Loan card.	 
+Players pay back each of their Loans to the player they were borrowed from. Loans can be paid back by a single installment, or the entire Loan can be paid back at once. Every time a single installment is paid back, move the counter on the Loan card by one space to keep track of the number of remaining installments to be paid. If a player is unable or unwilling to pay back a loan, they must default on the loan by giving up the security deposit instead.
+
+If a Loan is paid back in full or defaulted on then the Loan card is put into the discard pile, the player marker is returned to the player it belongs to, and the Coins indicating the payment amount are returned to the Printing Press.
+
+Example: Ari has a loan of $100 that he borrowed from Otto (5 rounds, $19 each round, with 1 gold security). During Loan Payment he pays an installment on it by giving Otto $19 and moving the Cube from 5 to 4 on the Loan card.	 
+
+
+
+Acquiring new loans
+-------------------
+
+Loans acquired this round don't have to paid back until the next round. 
+
+Only the player who is currently the Banker can lend money to other players. Loans are the only way to transfer money in the game.
+
+The Banker and the borrower openly negotiate the Loan between them. They must come to an agreement on four things:
+1. Loan Amount: the amount of money the borrower will receive.
+2. Installment Payment: the amount to be paid back to the lender in each installment.
+3. Loan Card: one of 3 face up Loan cards specifying the number of installments to pay back the loan.
+4. Security Deposit: the number of Gold pieces the borrower will place as a security deposit on the loan.
+
+Note that the total amount paid back to the lender does not have to be equal to the amount received by the borrower as long as both players agree on the amount.
+
+Once an agreement is reached, the Banker pays 10% of the money to be loaned from their hidden personal money supply to the printing press. Then the borrowing player takes the full amount of the loan from the printing press and gets the Loan card, placing it in front of them. The following pieces are placed on the Loan card:
+1. An amount of money to indicate the installment amount, acting as a reminder, taken from the Printing Press. (No one owns these coins, they only act as reminder of how much has to be paid each installment.)
+2. A loan marker (single cube) from the Banker, placed onto the last slot of the Loan counter, indicating the number of turns until the loan is paid back.
+3. The security deposit that the Banker and borrower agreed on, taken from the borrower's personal Gold supply.
+
+
+The Banker can decide if they give out a loan before a player has payed back their loans or after they've done so. The Banker can't give out loans after this step.
 
 4. Auction of Investment Cards
 ------------------------------
@@ -153,7 +189,7 @@ If a player brings forth an empty hand, they get $5 from the printing press. Thi
 5. Cash In of Investment Cards
 ------------------------------
 
-Starting with the player to the left of the Banker and going clockwise around the table, each player gets the option to cash in any number of their Investments. If a player decides to cash in an Investment card, they take the Gold bars from the card and place them in their personal Gold pile. The Investment card is then discarded. This is the only way to get Gold bars from the Investment cards to your personal Gold pile. At the end of the game only the Gold bars in your personal Gold pile count towards your final score.
+Starting with the player to the left of the Banker and going clockwise around the table, each player gets the option to cash in any number of their Investments. If a player decides to cash in an Investment card, they take the Gold bars from the card and place them in their personal Gold supply. The Investment card is then discarded. This is the only way to get Gold bars from the Investment cards to your personal Gold supply. At the end of the game only the Gold bars in your personal Gold supply count towards your final score.
 
 6. Roll and Resolve
 -------------------
@@ -183,35 +219,35 @@ D20 | 8-19 |     | 20
 D4 - Generic Motor Vehicle Company
 ----------------------------------
 
-If the value from the D4 die is less or equal to the current Market Instability value, all Generic Motor Vehicle Company investments crash.
+If the value from the D4 die is less or equal to the current Market Instability value, all Generic Motor Vehicle Company Investments crash.
 
-If the die result is higher than the current Market Instability value, add 2 gold pieces to each D4 investment card.
+If the die result is higher than the current Market Instability value, add 2 gold pieces to each D4 Investment card.
 
 D6 - Active Radio Company
 -------------------------
 
-If the value from the D6 die is less or equal to the current Market Instability value, all Active Radio Company investments crash.
+If the value from the D6 die is less or equal to the current Market Instability value, all Active Radio Company Investments crash.
 
-If the die result is higher than the current Market Instability value, add 1 gold pieces to each D6 investment card.
+If the die result is higher than the current Market Instability value, add 1 gold pieces to each D6 Investment card.
 
 
 D12 - National Steel Industries
 -------------------------------
 
-If the value from the D12 die is less or equal to the current Market Instability value, all National Steel Industries investments crash.
+If the value from the D12 die is less or equal to the current Market Instability value, all National Steel Industries Investments crash.
 
-If the die result is higher than the current Market Instability value and equal to or higher than 4 (but less than 12), add 1 gold pieces to each D12 investment card.
+If the die result is higher than the current Market Instability value and equal to or higher than 4 (but less than 12), add 1 gold pieces to each D12 Investment card.
 
-If the die result is 12 add 2 gold pieces to each D12 investment card.
+If the die result is 12 add 2 gold pieces to each D12 Investment card.
 
 D20 - Government Bonds of Freedom
 ---------------------------------
 
 If the value from the D20 die is less or equal to the current Market Instability value, all Government Bonds of Freedoms crash.
 
-If the die result is higher or equal to 8 (but less than 20), add 1 gold pieces to each D20 investment card.
+If the die result is higher or equal to 8 (but less than 20), add 1 gold pieces to each D20 Investment card.
 
-If the die result is 20, double all the gold bars on each D20 investment card.
+If the die result is 20, double all the gold bars on each D20 Investment card.
 
 
 Final Crash
@@ -221,31 +257,12 @@ Final Crash means that everything is lost. When the final Crash happens (5th in 
 
 If players have Loans and they're able to pay 1 installment of them they can do that and they can move the security from the Loan card into their personal Gold pile. If a player is unable to pay 1 installment of their loan they must give the security to the player who borrowed the money. 
 
-After these have been resolved, they player with most Gold in the personal Gold pile is the winner. In case of a tie, the player with more coins is the winner.
-
-
-Loaning money
-=============
-
-Only the player who is currently the Banker can lend money to other players. Loans are the only way to transfer money in the game.
-
-The Banker and the borrower openly negotiate the Loan between them. They must come to an agreement on four things:
-1. Loan Amount: the amount of money the borrower will receive.
-2. Installment Payment: the amount to be paid back to the lender in each installment.
-3. Loan Card: one of 3 face up Loan cards specifying the number of installments to pay back the loan.
-4. Security Deposit: the number of Gold pieces the borrower will place as a security deposit on the loan.
-
-Note that the total amount paid back to the lender does not have to be equal to the amount received by the borrower.
-
-Once an agreement is reached, the Banker pays 10% of the money to be loaned from the money behind their screen to the printing press. Then the borrowing player takes the full amount of the loan from the printing press and gets the Loan card, placing it in front of them. The following pieces are placed on the Loan card:
-1. An amount of money to indicate the installment amount, acting as a reminder, taken from the Printing Press. (No one owns these coins, they only act as reminder of how much has to be paid each installment.)
-2. A loan marker (single cube) from the Banker, placed onto the last slot of the Loan counter, indicating the number of turns until the loan is paid back.
-3. The security deposit that the Banker and borrower agreed on, taken from the borrower's personal Gold pile.
+After these have been resolved, the player with most Gold in their personal Gold supply is the winner. In case of a tie, the player with more coins is the winner.
 
 
 Credits 
 =======
 
 Design: Erik Svedäng & Petri Purho
-Artist: Petri Purho & Anna Zajaczkowski
+Artist: Petri Purho (illustration and graphic design) & Anna Zajaczkowski (graphic design)
 Playtesters: Arvi Teikari, Ari Kuokka, Anna Zajaczkowski, Pekka Kujansuu, Otto Hantula, Petri Luukkainen
