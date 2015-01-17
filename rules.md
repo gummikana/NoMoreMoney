@@ -31,7 +31,7 @@ Choose your investments right to make the biggest profits, but don't cash out to
 Objective
 =========
 
-The goal is the get as much Gold as possible. When the economy crashes for the final time, who ever has the most Gold pieces wins the game.
+The goal is to get as much Gold as possible. When the economy crashes for the final time, who ever has the most Gold pieces wins the game.
 
 
 Components
