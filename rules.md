@@ -45,7 +45,8 @@ Components
 * 1 Crash Track and Market Instability card
 * 4 Reference cards
 * 4 Player screens
-* 113 Gold pieces (wooden)
+* 40 Gold pieces (wooden)
+* 24 3x Gold pieces
 * 32 Cubes to track Loans (8 red, 8 purple, 8 blue, 8 green)
 * 1 Black disc (Crash tracker)
 * 1 Red cylinder (Market instability tracker)
