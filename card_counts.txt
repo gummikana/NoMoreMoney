@@ -1,0 +1,27 @@
+Investment deck:
+2, D4_0
+2, D4_1
+2, D4_2
+2, D4_3
+2, D6_0
+2, D6_1
+2, D6_2
+2, D6_3
+2, D12_0
+2, D12_1
+2, D12_2
+2, D12_3
+2, D20_0
+2, D20_1
+2, D20_2
+2, D20_3
+
+---
+
+Loan deck:
+4, loan_2_rounds
+8, loan_3_rounds
+2, loan_4_rounds
+2, loan_5_rounds
+2, loan_6_rounds
+2, loan_7_rounds
