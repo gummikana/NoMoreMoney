@@ -21,6 +21,7 @@ TODO
 [x] Baby loans
 [ ] Loan cards are there always 3 or 3 for a round?
 [ ] Examples
+[ ] Crashes happen even if there were no cards of that type in play...
 
 Introduction
 ============
@@ -45,13 +46,13 @@ Components
 * 1 Crash Track and Market Instability card
 * 4 Reference cards
 * 4 Player screens
-* 40 Gold pieces (wooden)
-* 24 3x Gold pieces
+* 47 Gold pieces (wooden)
+* 22 3x Gold pieces
 * 32 Cubes to track Loans (8 red, 8 purple, 8 blue, 8 green)
 * 1 Black disc (Crash tracker)
 * 1 Red cylinder (Market instability tracker)
 * 4 Market Dice (red D4, purple D6, blue D12, green D20) 
-* 140 money tokens (...)
+* 128 money tokens (40x1,30x5,20x20,20x50,18x100)
 * Rules booklet 
 
 Banker Card
@@ -149,7 +150,7 @@ If no one is willing to pay anything to be the Banker, the Banker card moves clo
 Paying back loans
 -----------------
 
-Players pay back each of their loans to the player they were borrowed from. loans can be paid back by a single installment, or the entire loan can be paid back at once. Every time a single installment is paid back, move the counter on the loan card by one space to keep track of the number of remaining installments to be paid. If a player is unable or unwilling to pay back a loan, they must default on the loan by giving up the security deposit to the lender.
+Players pay back each of their loans to the player they were borrowed from. Loans can be paid back by a single installment, or the entire loan can be paid back at once. Every time a single installment is paid back, move the counter on the loan card by one space to keep track of the number of remaining installments to be paid. If a player is unable or unwilling to pay back a loan, they must default on the loan by giving up the security deposit to the lender.
 
 If a loan is paid back in full or defaulted on then the loan card is put into the discard pile, the player marker is returned to the lender, and the coins indicating the payment amount are returned to the Printing Press.
 
@@ -162,7 +163,7 @@ Acquiring new loans
 
 Acquisition of loans can happen before and/or after payment of loans. During loan acquisition the Banker openly negotiates loans with other players.
 
-Only the player who is currently the Banker can lend money to other players. loans are the only way to transfer money in the game.
+Only the player who is currently the Banker can lend money to other players. Loans are the only way to transfer money in the game.
 
 When negotiating a loan, the Banker and the borrower must come to an agreement on four things:
 
@@ -186,6 +187,11 @@ A loan marker (single cube) from the Banker, placed onto the last slot of the lo
 The security deposit that the Banker and borrower agreed on, taken from the borrower's personal gold supply.
 
 Loans acquired this round don't have to paid back until the next round. 
+
+Example: Anna is currently the Banker and she announces "Does anyone want a loan?". Ari is always after for more money, so he asks for a loan of 150. 
+
+After some haggling, Anna and Ari agree to loan of 80 with 2 gold as security for 4 rounds with 21 as the installment amount. Anna pays 8 (8 is 10% of 80) to the printing press. Ari takes the 80 (the full amount of the loan) from the printing press. He also takes the 4 round loan card and takes one of Anna's cubes and places it on the lowest spot on the loan card. He also takes 21 from the printing press and puts it on the loan card as a reminder of how much he has to pay each round. And he puts 2 of his gold pieces on the card as the security.
+	
 
 4. Auction of Investment Cards
 ------------------------------
@@ -226,38 +232,17 @@ D12 | 4-11 | 12  |
 D20 | 8-19 |     | 20
 
 
-D4 - Generic Motor Vehicle Company
-----------------------------------
-
-If the value from the D4 die is less or equal to the current Market Instability value, all Generic Motor Vehicle Company investments crash.
-
-If the die result is higher than the current Market Instability value, add 2 gold pieces to each D4 investment card.
-
-D6 - Active Radio Company
--------------------------
-
-If the value from the D6 die is less or equal to the current Market Instability value, all Active Radio Company investments crash.
-
-If the die result is higher than the current Market Instability value, add 1 gold pieces to each D6 investment card.
+Example: At the end of round 1, the dice are rolled. 
+D4 comes up as 3, which means that all D4 investments get 2 more gold on them. 
+D6 is comes up as a 5 thus all D6 investments get 1 more gold. 
+D12 comes up a 12 and because of that 2 more gold are added to all D12 investments. 
+D20 comes up as 7 and because 7 is less than 8, D20 investments don't gain anything this round.
+Since nothing crashed (none of the dice came up as 1 which is the current Market Instability), the Market Instability is moved from 1 to 2.
 
 
-D12 - National Steel Industries
--------------------------------
-
-If the value from the D12 die is less or equal to the current Market Instability value, all National Steel Industries investments crash.
-
-If the die result is higher than the current Market Instability value and equal to or higher than 4 (but less than 12), add 1 gold pieces to each D12 investment card.
-
-If the die result is 12 add 2 gold pieces to each D12 investment card.
-
-D20 - Government Bonds of Freedom
----------------------------------
-
-If the value from the D20 die is less or equal to the current Market Instability value, all Government Bonds of Freedoms crash.
-
-If the die result is higher or equal to 8 (but less than 20), add 1 gold pieces to each D20 investment card.
-
-If the die result is 20, double all the gold bars on each D20 investment card.
+Example: At the end of round 2 the dice are rolled and the following happens D4: 2, D6: 1, D12: 10, D20: 20.
+Since Market Instability is at 2, all D4 and D6 investments crash. The Crash counter is moved up 2 (1 for each die that crashed) and the Market Instability is returned to 1. 
+D12's gain 1 more gold. Since 20 came up, the gold on D20's is doubled (e.g. Anna's D20 had 3 gold on it, it gains 3 more gold).
 
 
 Final Crash
