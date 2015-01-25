@@ -80,6 +80,11 @@ Crash Track
 
 This card is used to keep track of the number of crashes and when the game ends. It has two sides: one for the short game (0 to 4 crashes) and one for the long game (0 to 5 crashes). This card is also used to keep track of the current Market Instability. 
 
+Gold
+----
+
+The wooden pieces are single gold piece. The circular 3x gold tokens can be used mark 3 single gold pieces. Gold pieces are considered unlimited, so if you run out of them improvise.
+
 Screens
 -------
 
