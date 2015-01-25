@@ -191,7 +191,8 @@ Loans acquired this round don't have to paid back until the next round.
 Example: Anna is currently the Banker and she announces "Does anyone want a loan?". Ari is always after for more money, so he asks for a loan of 150. 
 
 After some haggling, Anna and Ari agree to loan of 80 with 2 gold as security for 4 rounds with 21 as the installment amount. Anna pays 8 (8 is 10% of 80) to the printing press. Ari takes the 80 (the full amount of the loan) from the printing press. He also takes the 4 round loan card and takes one of Anna's cubes and places it on the lowest spot on the loan card. He also takes 21 from the printing press and puts it on the loan card as a reminder of how much he has to pay each round. And he puts 2 of his gold pieces on the card as the security.
-	
+
+
 
 4. Auction of Investment Cards
 ------------------------------
