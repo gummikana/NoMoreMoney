@@ -34,7 +34,7 @@ Choose your investments right to make the biggest profits, but don't cash out to
 Objective
 =========
 
-The goal is to get as much gold as possible. When the economy crashes for the final time, who ever has the most gold pieces wins the game.
+The goal is to get as much gold as possible. When the final crash happens, who ever has the most gold pieces wins the game.
 
 
 Components
@@ -55,16 +55,6 @@ Components
 * 128 money tokens (40x1,30x5,20x20,20x50,18x100)
 * Rules booklet 
 
-Banker Card
------------
-
-This tracks which player is currently the Banker. The Banker has the ability to loan money to other players.
-
-Loan Cards
-----------
-
-These represent the loans a player owes to other players.
-
 Investment Cards
 ----------------
 
@@ -74,6 +64,17 @@ Market Dice
 -----------
 
 These dice are rolled to determine which of the investments go up and which crash. These are referred to in the rules as D4 (4 sided die), D6 (6 sided die), D12 (12 sided die) and as D20 (20 sided die).
+
+The Banker
+----------
+
+This tracks which player is currently the Banker. The Banker has the ability to loan money to other players.
+
+Loan Cards
+----------
+
+These represent the loans a player owes to other players.
+
 
 Crash Track
 -----------
@@ -263,7 +264,7 @@ If the loan is paid back, the security on the loan card is returned to the borro
 
 If the borrower is unable or unwilling to pay the installment, the loan is defaulted on and the security goes to lender.
 
-After loans have been resolved, the player with most gold in their personal gold supply is the winner. In case of a tie, the player with more coins is the winner.
+After loans have been resolved, the player with most gold in their personal gold supply is the winner. In case of a tie, the player with more money is the winner.
 
 
 Credits 
