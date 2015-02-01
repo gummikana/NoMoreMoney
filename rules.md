@@ -34,7 +34,7 @@ Choose your investments right to make the biggest profits, but don't cash out to
 Objective
 =========
 
-The goal is to get as much gold as possible. When the final crash happens, who ever has the most gold pieces wins the game.
+The goal is to get as much gold as possible. When the final crash happens, the player with the most gold pieces wins the game.
 
 
 Components
@@ -73,18 +73,17 @@ This tracks which player is currently the Banker. The Banker has the ability to 
 Loan Cards
 ----------
 
-These represent the loans a player owes to other players.
-
+These represent the loans that players owe to other players.
 
 Crash Track
 -----------
 
-This card is used to keep track of the number of crashes and when the game ends. It has two sides: one for the short game (0 to 4 crashes) and one for the long game (0 to 5 crashes). This card is also used to keep track of the current Market Instability. 
+This card is used to keep track of the number of crashes and when the game ends. It has two sides: one for the short game (up to 4 crashes) and one for the long game (up to 5 crashes). This card is also used to keep track of the current Market Instability. 
 
 Gold
 ----
 
-The wooden pieces are single gold piece. The circular 3x gold tokens can be used mark 3 single gold pieces. Gold pieces are considered unlimited, so if you run out of them improvise.
+The yellow wooden pieces represent gold pieces. The circular 3x gold tokens can be used to represent 3 gold pieces. Gold pieces are considered to be unlimited, so if you run out of them, improvise.
 
 Screens
 -------
@@ -117,7 +116,7 @@ Decide if you want to play the short game (4 crashes) or the long game (5 crashe
 Shuffle both the loan and investment decks. Draw 3 cards from the top of the loan deck and place them face up on the table. There should always be 3 loan cards available, so when one of them gets used draw a new one from the top of the deck. 
 
 3. Coins and golds
-Take all the rest of the coins and place them in a pile where all players can access them. This pile is referred to as the Printing Press. Take all the gold tokens and place them into a pile next to the Printing Press. This is called the Gold Reserve.
+Take all the rest of the coins and place them in a pile where all players can access them. This pile is referred to as the Printing Press. Take all the gold pieces and 3x tokens and place them in a pile next to the Printing Press. This is called the Gold Reserve.
 
 
 How to play
