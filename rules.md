@@ -122,7 +122,7 @@ Take all the rest of the coins and place them in a pile where all players can ac
 How to play
 ===========
 
-No More Money usually takes 4 to 9 rounds to play. At the end of each round the dice are rolled and may cause Crashes. The short game ends after the 4th crash and the long game ends after 5th crash. After the final crash, the player with most gold pieces wins the game.
+No More Money usually takes 4 to 9 rounds to play. At the end of each round the dice are rolled and may cause crashes. The short game ends after the 4th crash and the long game ends after 5th crash. After the final crash, the player with most gold pieces wins the game.
 
 Each round is divided in to 6 steps. Each is explained in detail in the following pages.
 
@@ -217,7 +217,7 @@ Starting with the player to the left of the Banker and going clockwise around th
 
 Take all four dice and roll them. Resolve the investments according to the investment table bellow. An investment crashes if the die for that investment rolls a value equal to or less than the current Market Instability value. When an investment crashes, all investment cards of that type crash and all the gold on them is lost. Crashed investment cards are discarded. 
 
-If nothing crashed this round, increment the Market Instability value by one. If there were one or more crashes, increment the Crash counter by the amount of crashes that were rolled.
+If nothing crashed this round, increment the Market Instability value by one. Otherwise, increment the Crash counter by the amount of crashes that were rolled and move the Market Instability back to 1.
 
 If the Crash track reaches 5 (or 4 in the short game) the game ends. See the Final Crash.
 
