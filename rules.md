@@ -26,9 +26,9 @@ TODO
 Introduction
 ============
 
-The year is 1929 and it's been a decade of boundless economic growth. 
-Trading on the stock market is at an all time high thanks to generous loans from the big banks.
-Choose your investments right to make the biggest profits, but don't cash out too late or you'll be left with nothing but the crumbs of the economy.
+The year is 1929. It has been a decade of boundless economic growth for America. Trading on the stock market is at an all time high thanks to generous loans from the big banks.
+Choose your investments wisely to make the biggest profits, but don't cash out too late or you'll be left with nothing but the crumbs of the economy.
+
 
 
 Objective
