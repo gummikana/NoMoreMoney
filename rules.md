@@ -27,6 +27,7 @@ Introduction
 ============
 
 The year is 1929. It has been a decade of boundless economic growth for America. Trading on the stock market is at an all time high thanks to generous loans from the big banks.
+
 Choose your investments wisely to make the biggest profits, but don't cash out too late or you'll be left with nothing but the crumbs of the economy.
 
 
@@ -168,7 +169,7 @@ Acquiring new loans
 
 Acquisition of loans can happen before and/or after payment of loans. During loan acquisition the Banker openly negotiates loans with other players.
 
-Only the player who is currently the Banker can lend money to other players. Loans are the only way to transfer money in the game.
+Only the player who is currently the Banker can lend money to other players. 
 
 When negotiating a loan, the Banker and the borrower must come to an agreement on four things:
 
