@@ -146,7 +146,7 @@ Example: In a 3 player game, 2 cards are drawn from the investment deck and plac
 
 In the first Banker Auction, bidding for the banker card starts with the person who has most recently gone to the bank. In subsequent rounds, bidding starts with the player to the left of the current Banker. 
 
-Clockwise around the table, each player states the amount of money they are willing pay to be the Banker. The next player can either raise the amount or leave the auction. This continues until one player has won the auction. That player then pays their bid to the Printing Press and takes the Banker card. They place the Banker card in front of their screen so it is visible to all players, indicating that they are the Banker for this round.
+Clockwise around the table, each player states the amount of money they are willing to pay to be the Banker. The next player can either raise the amount or leave the auction. This continues until one player has won the auction. That player then pays their bid to the Printing Press and takes the Banker card. They place the Banker card in front of their screen so it is visible to all players, indicating that they are the Banker for this round.
 
 If no one is willing to pay anything to be the Banker, the Banker card moves clockwise to the next player. That player becomes the new Banker for that round.
 
@@ -183,6 +183,8 @@ When negotiating a loan, the Banker and the borrower must come to an agreement o
 
 Note that the total amount paid back to the lender does not have to be equal to the amount received by the borrower as long as both players agree on the amount.
 
+Also loans acquired this round don't have to be paid back until the next round. 
+
 Once an agreement is reached, the Banker pays 10% of the money to be loaned from their hidden personal coin supply to the printing press. Then the borrowing player takes the full amount of the loan from the printing press and gets the loan card, placing it in front of them. The following pieces are placed on the loan card:
 
 1.
@@ -191,8 +193,6 @@ An amount of money to indicate the installment amount, acting as a reminder, tak
 A loan marker (single cube) from the Banker, placed onto the last slot of the loan counter, indicating the number of turns until the loan is paid back.
 3.
 The security deposit that the Banker and borrower agreed on, taken from the borrower's personal gold supply.
-
-Loans acquired this round don't have to paid back until the next round. 
 
 Example: Anna is currently the Banker and she announces "Does anyone want a loan?". Ari is always after for more money, so he asks for a loan of 150. 
 
@@ -272,4 +272,4 @@ Credits
 
 Design: Erik Svedäng & Petri Purho
 Artist: Petri Purho (illustration and graphic design) & Anna Zajaczkowski (graphic design)
-Playtesters: Arvi Teikari, Ari Kuokka, Anna Zajaczkowski, Pekka Kujansuu, Otto Hantula, Petri Luukkainen
+Playtesters: Arvi Teikari, Ari Kuokka, Anna Zajaczkowski, Pekka Kujansuu, Otto Hantula, Petri Luukkainen, Olli Harjola, Vesa Lepola, Tommaso De Benetti
