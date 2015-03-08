@@ -272,4 +272,4 @@ Credits
 
 Design: Erik Svedäng & Petri Purho
 Artist: Petri Purho (illustration and graphic design) & Anna Zajaczkowski (graphic design)
-Playtesters: Arvi Teikari, Ari Kuokka, Anna Zajaczkowski, Pekka Kujansuu, Otto Hantula, Petri Luukkainen, Olli Harjola, Vesa Lepola, Tommaso De Benetti
+Playtesters: Arvi Teikari, Ari Kuokka, Anna Zajaczkowski, Pekka Kujansuu, Otto Hantula, Petri Luukkainen, Olli Harjola, Petra Purho, Vesa Lepola, Tommaso De Benetti
